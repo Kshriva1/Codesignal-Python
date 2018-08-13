@@ -1,4 +1,4 @@
 # Codesignal
 
-[https://codesignal.com/]
+https://codesignal.com/
 
