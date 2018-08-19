@@ -12,10 +12,16 @@ Example
 For feedback = "This is an example feedback", and size = 8,
 the output should be
 
-feedbackReview(feedback, size) = ["This is", 
-                                  "an", 
-                                  "example", 
+feedbackReview(feedback, size) =  
+
+                                 ["This is",
+
+                                  "an",
+                                  
+                                  "example",
+                                  
                                   "feedback"]
+
 
 Input/Output
 
